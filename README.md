@@ -4,7 +4,13 @@
 This data analysis project aims to generate insight unto the sales performance of the capstone project over the past years. By analysing various parameters in the data recieved we seek to gather enough insight to make reasonable decisions whuch enables us to tell compeling stories around our data from insght gotten and to know the best performance from our data. 
 
 ### Tools Used
-- Microsoft Excel for Data Cleaning, Analysis and Visualization
+- Microsoft Excel 
+  1. for Data Cleaning
+  2. Analysis
+  3. Visualization
 - SQL - Structured Query Language for querying of data
-- GitHub for portfolio building
-- PowerBI for data visualization
+  1. for querying of data
+- GitHub
+  1. for portfolio building
+- PowerBI
+  1. for data visualization
